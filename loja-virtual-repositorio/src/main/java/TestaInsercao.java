@@ -29,8 +29,8 @@ public class TestaInsercao {
         
        
 
-       con.update("insert into usuario (nome,email,senha,cpf,tipo) values ('marcel','ma@gmail.com','senha200','5143768898','admin')");
-       stm.execute("insert into usuario (nome,email,senha,cpf,tipo) values ('marcel','ma@gmail.com','senha200','5143768898','admin')");
+       con.update("insert into usuario (nome,email,senha,cpf,tipo) values ('vini','vi@gmail.com','senha200','5143768898','admin')");
+       stm.execute("insert into usuario (nome,email,senha,cpf,tipo) values ('vini','vi@gmail.com','senha200','5143768898','admin')");
         
        
         //retorna um bollean false ja que não é uma lista
