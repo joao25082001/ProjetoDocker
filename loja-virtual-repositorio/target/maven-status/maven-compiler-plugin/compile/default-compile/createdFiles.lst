@@ -1,0 +1,10 @@
+TestaInsercaoComParametro.class
+com\JdbcTemplate.class
+FabricaConexao.class
+TestaConexao.class
+com\CriarConexao.class
+com\CriarConexaoSQL.class
+TestaInsercao.class
+TestaListagem.class
+ComboPooledDataSource.class
+TesteDelete.class
