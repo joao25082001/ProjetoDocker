@@ -18,7 +18,7 @@ public class CriarConexao {
     public Connection recuperarConexao() throws SQLException {
         return DriverManager.getConnection(
                 "jdbc:mysql://localhost:3306/teste?useTimezone=true&serverTimezone=UTC", "root",
-                "joaovitor");
+                "urubu100");
 
     }
 
